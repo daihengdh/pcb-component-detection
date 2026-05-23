@@ -45,8 +45,6 @@
 ## 📁 仓库内容
 
 - 📄 [论文全文 PDF](Dai-Heng-Master-Thesis-PCB-Component-Detection-2025.pdf)
-- 📊 [答辩 PPT](slides/defense.pdf)(可选)
-- 💻 [代码实现](code/)(可选)
 
 ## 🔑 关键词
 
@@ -54,14 +52,14 @@ PCB 组件检测 · 深度学习 · 小目标检测 · YOLOv8 · RT-DETR · 注�
 
 ## 📧 联系方式
 
-- **邮箱**:你的邮箱@xxx.com
-- **GitHub**:[@你的用户名](https://github.com/你的用户名)
+- **邮箱**:8530034924@qq.com
+- **GitHub**:[@daihengdh](https://github.com/daihengdh)
 
 ## 📜 引用
 
 如果本工作对你的研究有帮助,欢迎引用:
 
-​```bibtex
+```bibtex
 @mastersthesis{dai2025pcb,
   title={基于深度学习的印刷电路板组件检测研究},
   author={戴亨},
@@ -69,4 +67,4 @@ PCB 组件检测 · 深度学习 · 小目标检测 · YOLOv8 · RT-DETR · 注�
   school={云南师范大学},
   type={硕士学位论文}
 }
-​```
+```
