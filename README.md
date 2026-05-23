@@ -44,7 +44,7 @@
 
 ## 📁 仓库内容
 
-- 📄 [论文全文 PDF](Dai-Heng-Master-Thesis-PCB-Component-Detection-2025.pdf)
+- 📄 [论文全文 PDF](Dai-Heng-Master-Thesis-PCB-Component-Detection-2025.pdf)(GitHub 预览受限,点开后右上角"下载"图标即可查看完整论文)
 
 ## 🔑 关键词
 
